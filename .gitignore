@@ -1,0 +1,16 @@
+.settings/
+Debug/
+Drivers/
+Inc/
+Middlewares/
+startup/
+.cproject
+.mxproject
+.project
+*.cfg
+*.xml
+*.ld
+Src/s*
+Src/e*
+Src/f*
+Src/m*
